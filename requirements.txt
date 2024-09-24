@@ -1,0 +1,5 @@
+azure-ai-vision-imageanalysis
+fastapi
+openai
+python-dotenv
+uvicorn

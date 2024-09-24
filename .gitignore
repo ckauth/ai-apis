@@ -1,0 +1,5 @@
+venv
+.env
+run.sh
+deploy.sh
+__pycache__
