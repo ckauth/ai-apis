@@ -1,4 +1,6 @@
+azure-ai-documentintelligence
 azure-ai-vision-imageanalysis
+azure-core
 fastapi
 openai
 python-dotenv
